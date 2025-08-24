@@ -62,7 +62,7 @@ This chatbot embodies the “**build in public**” philosophy inspired by GitLa
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/nakshjoshi/git-lab-chatbot.git
+https://github.com/itsDurvank/Rag-Bot-for-Gitlab
 cd git-lab-chatbot
 ````
 
